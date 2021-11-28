@@ -1,0 +1,14 @@
+C:\Users\mcmcm\OneDrive\Рабочий стол\GAforFindingShortestPathInGraph-master\GAforFindingShortestPathInGraph\bin\Debug\GAforFindingShortestPathInGraph.exe.config
+C:\Users\mcmcm\OneDrive\Рабочий стол\GAforFindingShortestPathInGraph-master\GAforFindingShortestPathInGraph\bin\Debug\GAforFindingShortestPathInGraph.exe
+C:\Users\mcmcm\OneDrive\Рабочий стол\GAforFindingShortestPathInGraph-master\GAforFindingShortestPathInGraph\bin\Debug\GAforFindingShortestPathInGraph.pdb
+C:\Users\mcmcm\OneDrive\Рабочий стол\GAforFindingShortestPathInGraph-master\GAforFindingShortestPathInGraph\obj\Debug\GAforFindingShortestPathInGraph.csproj.AssemblyReference.cache
+C:\Users\mcmcm\OneDrive\Рабочий стол\GAforFindingShortestPathInGraph-master\GAforFindingShortestPathInGraph\obj\Debug\GAforFindingShortestPathInGraph.csproj.CoreCompileInputs.cache
+C:\Users\mcmcm\OneDrive\Рабочий стол\GAforFindingShortestPathInGraph-master\GAforFindingShortestPathInGraph\obj\Debug\GAforFindingShortestPathInGraph.exe
+C:\Users\mcmcm\OneDrive\Рабочий стол\GAforFindingShortestPathInGraph-master\GAforFindingShortestPathInGraph\obj\Debug\GAforFindingShortestPathInGraph.pdb
+C:\Users\mcmcm\OneDrive\Рабочий стол\Новая папка (2)\GAforFindingShortestPathInGraph-master\GAforFindingShortestPathInGraph\bin\Debug\GAforFindingShortestPathInGraph.exe.config
+C:\Users\mcmcm\OneDrive\Рабочий стол\Новая папка (2)\GAforFindingShortestPathInGraph-master\GAforFindingShortestPathInGraph\bin\Debug\GAforFindingShortestPathInGraph.exe
+C:\Users\mcmcm\OneDrive\Рабочий стол\Новая папка (2)\GAforFindingShortestPathInGraph-master\GAforFindingShortestPathInGraph\bin\Debug\GAforFindingShortestPathInGraph.pdb
+C:\Users\mcmcm\OneDrive\Рабочий стол\Новая папка (2)\GAforFindingShortestPathInGraph-master\GAforFindingShortestPathInGraph\obj\Debug\GAforFindingShortestPathInGraph.csproj.AssemblyReference.cache
+C:\Users\mcmcm\OneDrive\Рабочий стол\Новая папка (2)\GAforFindingShortestPathInGraph-master\GAforFindingShortestPathInGraph\obj\Debug\GAforFindingShortestPathInGraph.csproj.CoreCompileInputs.cache
+C:\Users\mcmcm\OneDrive\Рабочий стол\Новая папка (2)\GAforFindingShortestPathInGraph-master\GAforFindingShortestPathInGraph\obj\Debug\GAforFindingShortestPathInGraph.exe
+C:\Users\mcmcm\OneDrive\Рабочий стол\Новая папка (2)\GAforFindingShortestPathInGraph-master\GAforFindingShortestPathInGraph\obj\Debug\GAforFindingShortestPathInGraph.pdb

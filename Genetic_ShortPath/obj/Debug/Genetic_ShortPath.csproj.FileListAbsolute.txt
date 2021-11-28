@@ -1,0 +1,7 @@
+C:\Users\mcmcm\OneDrive\Рабочий стол\Genetic_ShortPath\bin\Debug\GAforFindingShortestPathInGraph.exe.config
+C:\Users\mcmcm\OneDrive\Рабочий стол\Genetic_ShortPath\bin\Debug\GAforFindingShortestPathInGraph.exe
+C:\Users\mcmcm\OneDrive\Рабочий стол\Genetic_ShortPath\bin\Debug\GAforFindingShortestPathInGraph.pdb
+C:\Users\mcmcm\OneDrive\Рабочий стол\Genetic_ShortPath\obj\Debug\Genetic_ShortPath.csproj.AssemblyReference.cache
+C:\Users\mcmcm\OneDrive\Рабочий стол\Genetic_ShortPath\obj\Debug\Genetic_ShortPath.csproj.CoreCompileInputs.cache
+C:\Users\mcmcm\OneDrive\Рабочий стол\Genetic_ShortPath\obj\Debug\GAforFindingShortestPathInGraph.exe
+C:\Users\mcmcm\OneDrive\Рабочий стол\Genetic_ShortPath\obj\Debug\GAforFindingShortestPathInGraph.pdb
